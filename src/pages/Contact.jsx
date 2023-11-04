@@ -32,24 +32,25 @@ export default function Contact() {
                             Uttar Pradesh, India. <br />
                             Primary E-mail: {" "}
                             <a href="mailto:ramsa.conference2024@gmail.com" className="text-decoration-none">
-                            <span className=" text-info">
+                            <span>
                                 <b> ramsa.conference2024@gmail.com</b>
                             </span>
                             </a>
                             <br />
-                            Subsequent E-Mail(s):
-                            <a href="mailto:pankaj.srivastava@mail.jiit.ac.in" className="text-decoration-none">
-                            <span className=" text-info">
-                                <b> pankaj.srivastava@mail.jiit.ac.in </b>
+                            <span>Subsequent E-Mail(s): </span>
+                            
+                            <span >
+                                 pankaj.srivastava@mail.jiit.ac.in  
                             </span>
-                            </a>
-                             and
-                             <a href="mailto:dinesh.bisht@mail.jiit.ac.in" className="text-decoration-none">
-                             <span className="text-info">
-                                <b> dinesh.bisht@mail.jiit.ac.in</b>
+                            
+                             <span> & </span>
+                             
+                             <span style={{color: "black"}}>
+                                 dinesh.bisht@mail.jiit.ac.in
                             </span>
-                             </a>
+                             
                              <br />
+                             WhatsApp Contact: +919650516758 & +919599862586
                         </div>
 
                         <div className="red-head">How to reach</div>

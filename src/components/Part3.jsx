@@ -15,7 +15,7 @@ function Part3() {
         <h2 style={{color: "red"}}>Publication Opportunities: </h2>
         <ul style={{textAlign:"justify"}}>
             <div><li>Accepted and presented papers will undergo peer review and be considered for publication. </li></div>
-            <div><li>The specific publication venues, including journals, books, or proceedings, are currently under consideration and will be communicated in due course.</li></div>
+            <div><li>The specific publication venues, including journals, books, or proceedings, are currently under consideration and will be updated in due course. <a href="https://sites.google.com/view/ramsa-24-updates/home" target="_blank" rel="noopener noreferrer">For current status please check updates.</a></li></div>
             <div><li>Acceptance for conference presentation does not guarantee paper publication. High-quality research papers will be considered for publication after the peer review process, following the publisher's or journal's policy. The final decision on acceptance/rejection of the manuscript will be on the basis of reviewer's and editor's recommendation.</li></div>
             <div><li>Publication charges (if applicable) for accepted full-length papers will be determined by the publisher or journal at the time of acceptance.</li></div>
         </ul>
