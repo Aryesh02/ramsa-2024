@@ -42,7 +42,8 @@ export default function Contact() {
                             Dr. Dinesh C.S. Bisht <br />
                             (Convener) <br />
                             Department of Mathematics <br />
-                            Email : <a
+                            Email :{" "}
+                            <a
                                 href="mailto:ramsa.conference2024@gmail.com"
                                 className="text-decoration-none"
                             >
@@ -51,7 +52,24 @@ export default function Contact() {
                                 </span>
                             </a>
                             <br />
-                            WhatsApp Contact: +919650516758 & +919599862586
+                            WhatsApp Contact:
+                            <b>
+                                <a
+                                    href="https://wa.me/+919650516758"
+                                    className="text-decoration-none"
+                                >
+                                    +919650516758
+                                </a>
+                            </b> &{" "}
+                            <b>
+                                <a
+                                    href="https://wa.me/+919599862586"
+                                    className="text-decoration-none"
+                                >
+                                    {" "}
+                                    +919599862586
+                                </a>
+                            </b>
                         </div>
 
                         <div className="red-head">How to reach</div>
