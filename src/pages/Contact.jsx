@@ -1,5 +1,5 @@
 import "./css/style.css";
-import Map from './Map'
+import Map from "./Map";
 export default function Contact() {
     return (
         <>
@@ -23,34 +23,35 @@ export default function Contact() {
                             Address your communications to
                         </div>
                         <div>
-                            Convener <br />
-                            RAMSA 2024 <br />
-                            Department of Mathematics, <br />
-                            Jaypee Institute of Information Technology, <br />
-                            A-10, Sector-62, Noida-201309, <br />
-                            Gautam Buddha Nagar, <br />
-                            Uttar Pradesh, India. <br />
-                            Primary E-mail: {" "}
-                            <a href="mailto:ramsa.conference2024@gmail.com" className="text-decoration-none">
-                            <span>
-                                <b> ramsa.conference2024@gmail.com</b>
-                            </span>
+                            Prof. Alka Tripathi <br />
+                            (Conference Chair) <br />
+                            Head, Department of Mathematics <br />
+                            Email:{" "}
+                            <a
+                                href="mailto:alka.tripathi@mail.jiit.ac.in"
+                                className="text-decoration-none"
+                            >
+                                {" "}
+                                <b>alka.tripathi@mail.jiit.ac.in</b>
                             </a>
                             <br />
-                            <span>Subsequent E-Mail(s): </span>
-                            
-                            <span >
-                                 pankaj.srivastava@mail.jiit.ac.in  
-                            </span>
-                            
-                             <span> & </span>
-                             
-                             <span style={{color: "black"}}>
-                                 dinesh.bisht@mail.jiit.ac.in
-                            </span>
-                             
-                             <br />
-                             WhatsApp Contact: +919650516758 & +919599862586
+                            Mobile no: +9197111 55009 <br /> <br />
+                            Dr. Pankaj K. Srivastava <br />
+                            (Convener) <br />
+                            Department of Mathematics <br />
+                            Dr. Dinesh C.S. Bisht <br />
+                            (Convener) <br />
+                            Department of Mathematics <br />
+                            Email : <a
+                                href="mailto:ramsa.conference2024@gmail.com"
+                                className="text-decoration-none"
+                            >
+                                <span>
+                                    <b> ramsa.conference2024@gmail.com</b>
+                                </span>
+                            </a>
+                            <br />
+                            WhatsApp Contact: +919650516758 & +919599862586
                         </div>
 
                         <div className="red-head">How to reach</div>
@@ -82,20 +83,32 @@ export default function Contact() {
                     <Map />
                 </div>
                 <div className="mx-4">
-                    <h4 className="red-head" >Website Designed & Developed by:</h4>
+                    <h4 className="red-head">
+                        Website Designed & Developed by:
+                    </h4>
                     <ol>
-                        <li>Tanmay Vig :
-                        <a href="mailto:cooltanmayvig@gmail.com" className="text-decoration-none">
-                             <span className="text-info">
-                                <b> cooltanmayvig@gmail.com </b>
-                            </span>
-                             </a> </li>
-                        <li>Aryesh Srivastava : 
-                        <a href="mailto:aryeshsrivastava@gmail.com" className="text-decoration-none">
-                             <span className="text-info">
-                                <b> aryeshsrivastava@gmail.com </b>
-                            </span>
-                             </a></li>
+                        <li>
+                            Tanmay Vig :
+                            <a
+                                href="mailto:cooltanmayvig@gmail.com"
+                                className="text-decoration-none"
+                            >
+                                <span className="text-info">
+                                    <b> cooltanmayvig@gmail.com </b>
+                                </span>
+                            </a>{" "}
+                        </li>
+                        <li>
+                            Aryesh Srivastava :
+                            <a
+                                href="mailto:aryeshsrivastava@gmail.com"
+                                className="text-decoration-none"
+                            >
+                                <span className="text-info">
+                                    <b> aryeshsrivastava@gmail.com </b>
+                                </span>
+                            </a>
+                        </li>
                     </ol>
                 </div>
             </div>
