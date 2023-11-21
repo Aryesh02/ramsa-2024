@@ -17,7 +17,7 @@ function Box5() {
             <Box4b name1= "Prof. H. M. Srivastava,," position1="University of Victoria, Canada"></Box4b>
             <Box4b name1= "Prof. M. C. Joshi," position1="Kumaun University, India"></Box4b>
             <Box4b name1= "Prof. Jeffrey J. Hunter," position1="Auckland Univ. Technology, New Zealand"></Box4b>
-            <Box4b name1= "Prof. M. Thamban Nair," position1="IIT Madras, India"></Box4b>
+            <Box4b name1= "Prof. M. Thamban Nair," position1="BITS Pilani, Goa Campus (Formerly: IIT Madras)"></Box4b>
             <Box4b name1= "Prof. K. V.  Srivastava," position1="IIT Kanpur, India"></Box4b>
             <Box4b name1= "Prof. K. Ahmad," position1="Jamia Millia Islamia, India"></Box4b>
             <Box4b name1= "Prof. A. K. Srivastava," position1="Banaras Hindu University, India"></Box4b>
