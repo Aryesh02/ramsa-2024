@@ -101,7 +101,7 @@ export default function Header() {
                                     rel="noopener noreferrer"
                                     className="l"
                                 >
-                                    Updates
+                                    Publications
                                 </a>
                             </Nav.Item>
                             <Nav.Item
